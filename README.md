@@ -1,14 +1,14 @@
-                          📌 ATM-Pin-Recovery-Using-Fce-Recognition 📌
+   📌 ATM-Pin-Recovery-Using-Fce-Recognition 📌
 
 ♦  ABSTRACT
 
-          ATM (Automated Teller Machine) is an electronic telecommunication device that is used to perform financial transaction without need for human clerk or bank teller. ATMs extend traditional banking hours by dispensing cash and making other transaction available 24 hours a day. In ATM machines, the user is identified by inserting an ATM card and authentication is provided by the customer entering a PIN. The PIN provided to the customer is compared with recorded reference PIN number in the bank server. In the existing system, the user has to insert the card and the PIN number. If the PIN is correct, the system allows for the transaction. Otherwise, the system asks for the PIN again and it allows maximum of three times to enter it. After 3 trials the ATM card will get blocked.To reactivate the card user need to visit the bank and do the bank formalities, which is tedious and time consuming job.
+  ATM (Automated Teller Machine) is an electronic telecommunication device that is used to perform financial transaction without need for human clerk or bank teller. ATMs extend traditional banking hours by dispensing cash and making other transaction available 24 hours a day. In ATM machines, the user is identified by inserting an ATM card and authentication is provided by the customer entering a PIN. The PIN provided to the customer is compared with recorded reference PIN number in the bank server. In the existing system, the user has to insert the card and the PIN number. If the PIN is correct, the system allows for the transaction. Otherwise, the system asks for the PIN again and it allows maximum of three times to enter it. After 3 trials the ATM card will get blocked.To reactivate the card user need to visit the bank and do the bank formalities, which is tedious and time consuming job.
 
 ![img1](https://github.com/Girisha26/ATM-Pin-Recovery-Using-Fce-Recognition/assets/110905339/db2af0dc-3902-4add-9c14-c11b4658c462)
 
 ♦ OBJECTIVES
 
-      • Usually the user inserts the ATM card in the ATM machine and enters Personal Identification Number (PIN) for the
+   • Usually the user inserts the ATM card in the ATM machine and enters Personal Identification Number (PIN) for the
 transactions.
       • If the user forgets the PIN and enters the wrong PIN then the ATM machine will provide two more attempts to enter the
 valid PIN.
