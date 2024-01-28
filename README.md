@@ -23,6 +23,8 @@ valid PIN.
    2) To activate the ATM card of the user at the ATM centre itself with the help of finger print of the user.
       
    3) To alert owner of the ATM card in case of misuse.
+
+      
   ![IMG 2](https://github.com/Girisha26/ATM-Pin-Recovery-Using-Fce-Recognition/assets/110905339/9db94062-bad5-442b-833a-14981f227165)
 
 
