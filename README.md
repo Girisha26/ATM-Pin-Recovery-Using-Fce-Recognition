@@ -1,4 +1,5 @@
    📌 ATM-Pin-Recovery-Using-Fce-Recognition 📌
+   ![gif1](https://github.com/Girisha26/ATM-Pin-Recovery-Using-Fce-Recognition/assets/110905339/c9511fb3-6363-4431-b6ed-55cb6fc41089)
 
 ♦  ABSTRACT
 
